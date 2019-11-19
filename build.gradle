@@ -14,6 +14,6 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     // https://mvnrepository.com/artifact/org.projectlombok/lombok
-    implementatione group: 'org.projectlombok', name: 'lombok', version: '1.18.10'
+    implementation group: 'org.projectlombok', name: 'lombok', version: '1.18.10'
 
 }
